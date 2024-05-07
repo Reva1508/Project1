@@ -1,3 +1,4 @@
 git add --all
 git commit -m "<learning new things>"
 git status
+git add
